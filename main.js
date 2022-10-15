@@ -37,4 +37,4 @@ const offerClick3 = () => {
 
 btnOffer3.addEventListener("click", offerClick3)
 
-// alert("PRZECZYTAJ NAJPIERW!")
+alert("PRZECZYTAJ NAJPIERW!")
